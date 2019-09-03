@@ -1,0 +1,101 @@
+
+
+
+  {
+  
+  
+    "properties" : {},
+  
+  "type" : "course",
+  "title" : " Database Fundamentals ",
+  "img" : "",
+  "videoid" : "",
+  "objectives" : "<p>A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules</p>",
+  "folder" : "DatabaseFundamentals-Notes",
+  "link" : "index.html",
+  "los": [
+   ]
+,
+  "topics" : [  {
+    
+  
+    "properties" : {},
+  
+  "type" : "topic",
+  "title" : " 01: Introduction  ",
+  "img" : "topic.png",
+  "videoid" : "",
+  "objectives" : "<p>In this section, you will be introduced to a number of database concepts.</p>",
+  "folder" : "topic-01-Introduction",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "unit",
+  "title" : "Introduction to databases ",
+  "img" : "talk-1/talk-1.jpg",
+  "videoid" : "",
+  "objectives" : "<p>Introduction to databases</p>",
+  "folder" : "unit-1-introduction",
+  "link" : "index.html",
+  "los": [
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Module Overview ",
+  "img" : "talk-1.jpg",
+  "videoid" : "none",
+  "objectives" : "<p>An overview of the content in this module.</p>",
+  "folder" : "talk-1",
+  "link" : "talk-1.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Introduction to Databases ",
+  "img" : "talk-2.png",
+  "videoid" : "none",
+  "objectives" : "<p>This lecture introduces database concepts and terminology.</p>",
+  "folder" : "talk-2",
+  "link" : "talk-2.pdf",
+  "los": [
+   ]
+
+    } ,
+   {
+    
+  
+    "properties" : {},
+  
+  "type" : "talk",
+  "title" : " Database Environment ",
+  "img" : "talk-3.png",
+  "videoid" : "none",
+  "objectives" : "<p>This lecture examines the database environment.</p>",
+  "folder" : "talk-3",
+  "link" : "talk-3.pdf",
+  "los": [
+   ]
+
+    } 
+   ]
+
+    } 
+   ]
+
+  }
+ ]
+  }
+
